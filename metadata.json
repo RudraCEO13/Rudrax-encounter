@@ -1,0 +1,6 @@
+{
+  "name": "RudraX Motion X",
+  "description": "Next-Generation AI Hand Tracking, Custom Game Studio, 3D Air Drawing & Wireless Motion Gaming Controller",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

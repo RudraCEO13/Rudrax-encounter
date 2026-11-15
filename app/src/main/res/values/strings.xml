@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RudraX Motion X</string>
+    <string name="brand_tagline">Your Hands. Your Imagination. Your Game.</string>
+    <string name="studio_credit">By RudraX Technologies Studio™</string>
+    <string name="camera_active_badge">CAMERA ACTIVE • LOCAL VISION ONLY</string>
+    <string name="camera_permission_rationale">RudraX Motion X processes camera frames locally on-device to track 42 hand landmarks. No raw video is recorded or transmitted.</string>
+    <string name="bluetooth_permission_rationale">Bluetooth permission allows discovering nearby Smart TVs, Laptops, and compatible wireless receivers for pairing.</string>
+</resources>
